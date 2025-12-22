@@ -1,7 +1,7 @@
 package com.app.model;
 
 public class Student {
-	string address;
+	
 	private int rollno;
 	private String name;
 	private Address adr;
@@ -12,6 +12,9 @@ public class Student {
 		this.name = name;
 		this.adr = adr;
 	}
+	
+	
+	
 	
 	@Override
 	public String toString() {
