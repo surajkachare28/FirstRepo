@@ -1,7 +1,7 @@
 package com.app.model;
 
 public class Student {
-
+	string address;
 	private int rollno;
 	private String name;
 	private Address adr;
